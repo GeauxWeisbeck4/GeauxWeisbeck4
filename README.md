@@ -3,7 +3,7 @@
 - 🌱 I’m currently deploying my first web app that will allow me to market
       my skills as a Freelance Full Stack Developer.
 - 💞️ I have a goal to build a robust community and develop web applications 
--     that help make life easier for everyone, and create content that entertains and educates.
+     that help make life easier for everyone, and create content that entertains and educates.
 - 📫 How to reach me andrew.weisbeck@gmail.com or you can message me on GitHub!
 
 <!---
@@ -18,3 +18,6 @@ Python skills to be an even more dynamic full stack developer.
 I would appreciate it if you followed me on Twitter @GeauxWeisbeck4
 ✨.
 --->
+You can read my blog on my page or check out my newsletter.
+
+I will post where you can donate to contribute to my work and how else you can help.
