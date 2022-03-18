@@ -6,6 +6,10 @@
      that help make life easier for everyone, and create content that entertains and educates.
 - 📫 How to reach me andrew.weisbeck@gmail.com or you can message me on GitHub!
 
+![memorialstadium](https://user-images.githubusercontent.com/87398426/158946689-5860535f-a63b-459c-b192-e47cf9fa8b13.jpeg)
+I love Nebraska Cornhusker Football! Photo credit: Lydia Asplin Copyright: University of Nebraska Athletics
+
+
 <!---
 GeauxWeisbeck4/GeauxWeisbeck4✨
   This is where to start with my Github journey as far as my full stack developer career goes. I've been coding for years but
