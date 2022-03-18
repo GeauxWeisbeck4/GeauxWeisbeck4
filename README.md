@@ -21,3 +21,9 @@ I would appreciate it if you followed me on Twitter @GeauxWeisbeck4
 You can read my blog on my page or check out my newsletter.
 
 I will post where you can donate to contribute to my work and how else you can help.
+
+#Update: Friday March 18th, 2022 - 2:00AM
+
+Cleaning up GitHub and planning on coming through and cleaning up all my repositories, organizing some as just watching and not having them as forks (decrease potential for cyber attack surface - and it looks nicer), and then getting ready to make sure I nail down the remote Git build for my JamStack App for the March Madness of Full Stack... Tech Stacks haha I typed that wrong but am in a hurry. 
+
+Other News: Still looking for work or a way to make money! Subscribe to my newsletter - you can get most of the content for free still. I am just going to monetize some of these tutorials I create. Look out for my JamStack App here shortly - it's a quick build!
