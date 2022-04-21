@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @GeauxWeisbeck4
 - 👀 I’m interested in Full Stack Development, entrepreneurship, and sports.
+- I'm a kind, compassionate, confident, and hard working individual who loves 
+  creativity more than anything. Full stack development has been the greatest 
+  gift.
 - 🌱 I’m currently deploying my first web app that will allow me to market
       my skills as a Freelance Full Stack Developer.
 - 💞️ I have a goal to build a robust community and develop web applications 
