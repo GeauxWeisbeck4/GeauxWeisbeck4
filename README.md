@@ -3,8 +3,8 @@
 - I'm a kind, compassionate, confident, and hard working individual who loves 
   creativity more than anything. Full stack development has been the greatest 
   gift.
-- 🌱 I’m currently deploying my first web app that will allow me to market
-      my skills as a Freelance Full Stack Developer.
+- 🌱 I’m currently a freelance full-stack developer who is lucky enough to say that I don't work with just one framework or
+ language, but pretty much all of them.
 - 💞️ I have a goal to build a robust community and develop web applications 
      that help make life easier for everyone, and create content that entertains and educates.
 - 📫 How to reach me andrew.weisbeck@gmail.com or you can message me on GitHub!
