@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeauxWeisbeck4
+- 👋 Hi, I’m @GeauxWeisbeck4 - I own a little web dev agency called [Tar Heel Dev Studio](https://tarheeldevstudio.com) in Raleigh, NC.
 - 👀 I’m interested in Full Stack Development, entrepreneurship, and sports.
 - My real name is Andrew and I'm a kind, compassionate, confident, and hard working individual who loves 
   creativity more than anything. I am part Native American and I take pride in that - I am a part of the Natives in Tech non-profit.
