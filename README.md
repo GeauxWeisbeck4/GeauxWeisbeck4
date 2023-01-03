@@ -1,6 +1,6 @@
-#👋 Hi, I’m @GeauxWeisbeck4 - I own a little web dev agency called [Tar Heel Dev Studio](https://tarheeldevstudio.com) in Raleigh, NC.
-# I love programming, creating things on my computers, and hanging out with my best friend and fiance. I'm a friendly dude, so hit me up if you want to collaborate!
-# I really need work and help paying bills - if you have work for me, I am more than happy to help with anything.
+-👋 Hi, I’m @GeauxWeisbeck4 - I own a little web dev agency called [Tar Heel Dev Studio](https://tarheeldevstudio.com) in Raleigh, NC.
+- I love programming, creating things on my computers, and hanging out with my best friend and fiance. I'm a friendly dude, so hit me up if you want to collaborate!
+- I really need work and help paying bills - if you have work for me, I am more than happy to help with anything.
 ## More About Me:
 - My real name is Andrew and I'm a kind, compassionate, confident, and hard working individual who loves creativity more than anything. I am part Native American and I take pride in that - I am a part of the Natives in Tech non-profit. I am trying to grow my network so please don't hesitate to reach out with any collaboration ideas or requests to discuss work or ptential projets!
 - 🌱 I’m currently a freelance full-stack developer who is seeking full time work with a company - or just more clients! I don't really care about what I do, as long as I get to create cool things on the web.
