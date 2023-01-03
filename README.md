@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @GeauxWeisbeck4 - I own a little web dev agency called [Tar Heel Dev Studio](https://tarheeldevstudio.com) in Raleigh, NC.
-- 👀 I’m interested in Full Stack Development, entrepreneurship, and sports.
-- My real name is Andrew and I'm a kind, compassionate, confident, and hard working individual who loves 
-  creativity more than anything. I am part Native American and I take pride in that - I am a part of the Natives in Tech non-profit.
-- 🌱 I’m currently a freelance full-stack developer who is lucky enough to say that I don't work with just one framework or
- language, but pretty much all of them.
+#👋 Hi, I’m @GeauxWeisbeck4 - I own a little web dev agency called [Tar Heel Dev Studio](https://tarheeldevstudio.com) in Raleigh, NC.
+# I love programming, creating things on my computers, and hanging out with my best friend and fiance. I'm a friendly dude, so hit me up if you want to collaborate!
+# I really need work and help paying bills - if you have work for me, I am more than happy to help with anything.
+## More About Me:
+- My real name is Andrew and I'm a kind, compassionate, confident, and hard working individual who loves creativity more than anything. I am part Native American and I take pride in that - I am a part of the Natives in Tech non-profit. I am trying to grow my network so please don't hesitate to reach out with any collaboration ideas or requests to discuss work or ptential projets!
+- 🌱 I’m currently a freelance full-stack developer who is seeking full time work with a company - or just more clients! I don't really care about what I do, as long as I get to create cool things on the web.
 - 💞️ I have a goal to build a robust community and develop web applications 
      that help make life easier for everyone, and create content that entertains and educates.
-- 📫 How to reach me andrew.weisbeck@gmail.com or you can message me on GitHub!
+- 📫 How to reach me: 
+- andrew.weisbeck@gmail.com or andrew.weisbeck@tarheeldevstudio.com
+  - Twitter: @GeauxWeisbeck4
+  - Mastodon: GeauxWeisbeck4
+ 
 
 ![memorialstadium](https://user-images.githubusercontent.com/87398426/158946689-5860535f-a63b-459c-b192-e47cf9fa8b13.jpeg)
 I love Nebraska Cornhusker Football! Photo credit: Lydia Asplin Copyright: University of Nebraska Athletics
@@ -25,5 +29,4 @@ I would appreciate it if you followed me on Twitter @GeauxWeisbeck4
 ✨.
 --->
 
-I am still open and in need of employment. If you are curious about any of my work, want to talk about hiring me for a project 
-or job, or want to code together for fun, hit me up at andrew.weisbeck@gmail.com - I'm always looking to get to know people!
+
