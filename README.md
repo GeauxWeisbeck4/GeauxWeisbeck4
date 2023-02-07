@@ -1,32 +1,66 @@
--👋 Hi, I’m @GeauxWeisbeck4 - I own a little web dev agency called [Tar Heel Dev Studio](https://tarheeldevstudio.com) in Raleigh, NC.
-- I love programming, creating things on my computers, and hanging out with my best friend and fiance. I'm a friendly dude, so hit me up if you want to collaborate!
-- I really need work and help paying bills - if you have work for me, I am more than happy to help with anything.
+# GeauxWeisbeck4 - The GitHub of Andrew Weisbeck
+
+👋 Hi, I’m @GeauxWeisbeck4! I'm a freelance full-stack web developer in Raleigh, NC and am currently open to new clients and job opportunities.
+
+## Currently Working On:
+
+I am doing a 50 days of coding projects challenge where I will build in public and write about it in my Digital Garden, document it in YouTube and have live streams of my coding sessions. I think this will help me break out of my funk I was in for a whole year of having no job.
+
 ## More About Me:
 - My real name is Andrew and I'm a kind, compassionate, confident, and hard working individual who loves creativity more than anything. I am part Native American and I take pride in that - I am a part of the Natives in Tech non-profit. I am trying to grow my network so please don't hesitate to reach out with any collaboration ideas or requests to discuss work or ptential projets!
-- 🌱 I’m currently a freelance full-stack developer who is seeking full time work with a company - or just more clients! I don't really care about what I do, as long as I get to create cool things on the web.
-- 💞️ I have a goal to build a robust community and develop web applications 
-     that help make life easier for everyone, and create content that entertains and educates.
-- 📫 How to reach me: 
+- 🌱 I love my digital garden - [check it out](https://andrewsdigital.garden) and give me some feedback!
+- My favorite dev tool is Deno and favorite framework is Next.js or Svelte Kit.
+
+## 📫 How to reach me: 
 - andrew.weisbeck@gmail.com or andrew.weisbeck@tarheeldevstudio.com
   - Twitter: @GeauxWeisbeck4
   - Mastodon: GeauxWeisbeck4
  
 
-![memorialstadium](https://user-images.githubusercontent.com/87398426/158946689-5860535f-a63b-459c-b192-e47cf9fa8b13.jpeg)
-I love Nebraska Cornhusker Football! Photo credit: Lydia Asplin Copyright: University of Nebraska Athletics
+![My Life](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1670863573/aboutme2_n3rqfw.png)
+Photo by GeauxWeisbeck4 circa 2022
 
 
-<!---
-GeauxWeisbeck4/GeauxWeisbeck4✨
-  This is where to start with my Github journey as far as my full stack developer career goes. I've been coding for years but
-never got around to learning full stack, and I'm so happy I did. 
+## Badges
 
-I am currently seeking freelance work or any type of employment as soon as possible really. I made sure that I got
-good enough to know what I'm doing, at least all the way through a MEAN Stack. I am currently touching up on old
-Python skills to be an even more dynamic full stack developer.
+Here are badges for tech that I use in my day to day operations:
 
-I would appreciate it if you followed me on Twitter @GeauxWeisbeck4
-✨.
---->
+### Blogging
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
+![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)
 
+### CI/CD
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Database
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
+
+### Design
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+[Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+### Developer/Forums
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+
+To be continued...
 
