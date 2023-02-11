@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @GeauxWeisbeck4! I'm a freelance full-stack web developer in Raleigh, NC and am currently open to new clients and job opportunities.
 
-![andrewlogo](https://user-images.githubusercontent.com/87398426/218251113-f95fb7cf-5edf-427e-a990-39ea321d88e7.png)
+![andrewweisbecklogo2](https://user-images.githubusercontent.com/87398426/218251666-233f62ab-dfe4-4093-9a61-dd1c2b7171d9.png)
 
 ## Currently Working On (As of 2/11/2023)
 
