@@ -2,11 +2,14 @@
 
 👋 Hi, I’m @GeauxWeisbeck4! I'm a freelance full-stack web developer in Raleigh, NC and am currently open to new clients and job opportunities.
 
-## Currently Working On:
+![andrewlogo](https://user-images.githubusercontent.com/87398426/218251113-f95fb7cf-5edf-427e-a990-39ea321d88e7.png)
+
+## Currently Working On (As of 2/11/2023)
 
 I am doing a 50 days of coding projects challenge where I will build in public and write about it in my Digital Garden, document it in YouTube and have live streams of my coding sessions. I think this will help me break out of my funk I was in for a whole year of having no job.
 
 ## More About Me:
+
 - My real name is Andrew and I'm a kind, compassionate, confident, and hard working individual who loves creativity more than anything. I am part Native American and I take pride in that - I am a part of the Natives in Tech non-profit. I am trying to grow my network so please don't hesitate to reach out with any collaboration ideas or requests to discuss work or ptential projets!
 - 🌱 I love my digital garden - [check it out](https://andrewsdigital.garden) and give me some feedback!
 - My favorite dev tool is Deno and favorite framework is Next.js or Svelte Kit.
