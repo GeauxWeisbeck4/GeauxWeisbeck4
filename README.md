@@ -4,9 +4,11 @@
 
 ![andrewweisbecklogo2](https://user-images.githubusercontent.com/87398426/218251666-233f62ab-dfe4-4093-9a61-dd1c2b7171d9.png)
 
-## Currently Working On (As of 2/11/2023)
+## Currently Working On: 50 Days of Coding Projects 
 
-I am doing a 50 days of coding projects challenge where I will build in public and write about it in my Digital Garden, document it in YouTube and have live streams of my coding sessions. I think this will help me break out of my funk I was in for a whole year of having no job.
+I am doing a 50 days of coding projects challenge where I will build in public and write about it in my Digital Garden, document it in YouTube and have live streams of my coding sessions. I think this will help me break out of my funk I was in for a whole year of having no job - basically, I was trying to work on 20 projects at a time and hoping that they'd all just fall into place and somehow make money without a plan. 
+
+Coding a new project everyday will hopefully give me that fresh excitement of starting a new project, but on a more manageable level as I plan on making each daily project small with the capability to develop it into my next (well and first) SaSS app. You can check out my work [here at my digital garden](https://andrewsdigital.garden).
 
 ## More About Me:
 
