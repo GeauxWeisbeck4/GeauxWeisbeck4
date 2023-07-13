@@ -1,10 +1,6 @@
 # GeauxWeisbeck4 - The GitHub of Andrew Weisbeck
 
-________
-|
-|   ______ |----. |=====. |     |  \  /
-|        | |____| |-----| |     |   /\
-|________| |_____ |     |  \____/  /  \  
+![Tailwind Devdude](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1662777703/devdude_nnlp7u.png)
 
 👋 Hi, I’m @GeauxWeisbeck4! I'm a freelance full-stack web developer in Raleigh, NC and am currently open to new clients and job opportunities.
 
