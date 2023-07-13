@@ -1,5 +1,11 @@
 # GeauxWeisbeck4 - The GitHub of Andrew Weisbeck
 
+________
+|
+|   ______ |----. |=====. |     |  \  /
+|        | |____| |-----| |     |   /\
+|________| |_____ |     |  \____/  /  \  
+
 👋 Hi, I’m @GeauxWeisbeck4! I'm a freelance full-stack web developer in Raleigh, NC and am currently open to new clients and job opportunities.
 
 ## Latest Project: DailyProject.dev
@@ -20,9 +26,6 @@ As for my other projects I work on in pulic you can check em out [here at my dig
   - Twitter: @GeauxWeisbeck4
   - Mastodon: GeauxWeisbeck4
  
-
-![My Life](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1670863573/aboutme2_n3rqfw.png)
-Photo by GeauxWeisbeck4 circa 2022
 
 
 ## Badges
