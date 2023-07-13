@@ -2,13 +2,12 @@
 
 👋 Hi, I’m @GeauxWeisbeck4! I'm a freelance full-stack web developer in Raleigh, NC and am currently open to new clients and job opportunities.
 
-![andrewweisbecklogo2](https://user-images.githubusercontent.com/87398426/218251666-233f62ab-dfe4-4093-9a61-dd1c2b7171d9.png)
+## Latest Project: DailyProject.dev
 
-## Currently Working On: 50 Days of Coding Projects 
+I am working on a project called DailyProject.dev. I haven't shared it with the world yet, but I am working on it for the Refine.Dev Hackathon. I will share it upon the Hackathon's completion, but the basic idea is that there is a project each day that you can complete and compete against others by getting rated on a leaderboard of people who complete the projects eacy day. 
 
-I am doing a 50 days of coding projects challenge where I will build in public and write about it in my Digital Garden, document it in YouTube and have live streams of my coding sessions. I think this will help me break out of my funk I was in for a whole year of having no job - basically, I was trying to work on 20 projects at a time and hoping that they'd all just fall into place and somehow make money without a plan. 
 
-Coding a new project everyday will hopefully give me that fresh excitement of starting a new project, but on a more manageable level as I plan on making each daily project small with the capability to develop it into my next (well and first) SaSS app. You can check out my work [here at my digital garden](https://andrewsdigital.garden).
+As for my other projects I work on in pulic you can check em out [here at my digital garden](https://andrewsdigital.garden).
 
 ## More About Me:
 
