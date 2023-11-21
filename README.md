@@ -4,9 +4,9 @@
 
 👋 Hi, I’m @GeauxWeisbeck4! I'm a freelance full-stack web developer in Raleigh, NC and am currently open to new clients and job opportunities.
 
-## Latest Project: DailyProject.dev
+## Latest Project: Homeless-Hacker.vercel.app
 
-I am working on a project called DailyProject.dev. I haven't shared it with the world yet, but I am working on it for the Refine.Dev Hackathon. I will share it upon the Hackathon's completion, but the basic idea is that there is a project each day that you can complete and compete against others by getting rated on a leaderboard of people who complete the projects eacy day. 
+I am working on a project called the [Homeless Hacker](https://homeless-hacker.vercel.app). It shares my journey through homelessness with my fiance Lisa. I talk about our struggles while also posting about my journey as a full stack web developer. There are multiple publications I will be creating content on - Substack, Medium, YouTube, Twitch, and Mastodon right now, with more to possibly come. Check it out and support us by donating to our CashApp $lisaweisbeck4.
 
 
 As for my other projects I work on in pulic you can check em out [here at my digital garden](https://andrewsdigital.garden).
