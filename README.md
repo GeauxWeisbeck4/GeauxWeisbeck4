@@ -1,32 +1,23 @@
-# GeauxWeisbeck4 - The GitHub of Andrew Weisbeck
+# [GeauxWeisbeck4](https://linkedin.com/in/geauxweisbeck4) | [Andrew Weisbeck](https://andrewweisbeck.com) | Full-Stack Developer, Entrepreneur, and Content Creator
 
-![Tailwind Devdude](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1662777703/devdude_nnlp7u.png)
+![Andrew Coding at Night](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1727364042/codingatnight_hagssc.png)
 
-👋 Hi, I’m @GeauxWeisbeck4! I'm a freelance full-stack web developer in Raleigh, NC and am currently open to new clients and job opportunities.
+👋 Hi, my name is Andrew Weisbeck - you may know me as @GeauxWeisbeck4. I am a freelance full-stack developer and owner of [Tar Heel Dev Studio](https://tarheeldevstudio.netlify.app), my freelance brand that I have recently been able to have enough time to focus my energy on. I also create content and am starting to get back into that process as well. I've dealt with some difficult circumstances in my life recently, but I am back on track and have a lot of time to work on projects and find work!
 
-## Latest Project: Homeless-Hacker.vercel.app
+While I do have a freelance brand and other endeavors, I am currently seeking full-time employment. I want the opportunity to work on a team and have steady income. While freelancing is great, it can be highly stressful if it is your main source of income. 
 
-I am working on a project called the [Homeless Hacker](https://homeless-hacker.vercel.app). It shares my journey through homelessness with my fiance Lisa. I talk about our struggles while also posting about my journey as a full stack web developer. There are multiple publications I will be creating content on - Substack, Medium, YouTube, Twitch, and Mastodon right now, with more to possibly come. Check it out and support us by donating to our CashApp $lisaweisbeck4.
+Please reach out to me if you would like to collaborate or discuss an employment opportunity - I am interested and would love to talk! 
 
+Phone Number: (919)638-6663
+Email: [andrew.weisbeck@gmail.com](mailto:andrew.weisbeck@gmail.com) and [andrew@geauxweisbeck4.dev](mailto:andrew@geauxweisbeck4.dev)
+Twitter: [@GeauxWeisbeck4](https://x.com/GeauxWeisbeck4)
+LinkedIn: [Andrew Weisbeck](https://linkedin.com/in/geauxweisbeck4)
+Threads: [@GeauxWeisbeck4](https://www.threads.net/@geauxweisbeck4)
+Mastodon: [@GeauxWeisbeck4](https://fosstodon.org/@GeauxWeisbeck4)
 
-As for my other projects I work on in pulic you can check em out [here at my digital garden](https://andrewsdigital.garden).
+## Uses
 
-## More About Me:
-
-- My real name is Andrew and I'm a kind, compassionate, confident, and hard working individual who loves creativity more than anything. I am part Native American and I take pride in that - I am a part of the Natives in Tech non-profit. I am trying to grow my network so please don't hesitate to reach out with any collaboration ideas or requests to discuss work or ptential projets!
-- 🌱 I love my digital garden - [check it out](https://andrewsdigital.garden) and give me some feedback!
-- My favorite dev tool is Deno and favorite framework is Next.js or Svelte Kit.
-
-## 📫 How to reach me: 
-- andrew.weisbeck@gmail.com or andrew.weisbeck@tarheeldevstudio.com
-  - Twitter: @GeauxWeisbeck4
-  - Mastodon: GeauxWeisbeck4
- 
-
-
-## Badges
-
-Here are badges for tech that I use in my day to day operations:
+Here are some of the platforms and tools that I use:
 
 ### Blogging
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
@@ -65,5 +56,4 @@ Here are badges for tech that I use in my day to day operations:
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
-To be continued...
 
