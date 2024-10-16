@@ -1,8 +1,8 @@
-# [GeauxWeisbeck4](https://linkedin.com/in/geauxweisbeck4) | [Andrew Weisbeck](https://andrewweisbeck.com) | Full-Stack Developer, Entrepreneur, and Content Creator
+# [Andrew Weisbeck](https://andrewweisbeck.com) | Full-Stack Developer, Entrepreneur, and Content Creator
 
-![Andrew Coding at Night](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1727364042/codingatnight_hagssc.png)
+<a href="https://app.daily.dev/geauxweisbeck4"><img src="https://api.daily.dev/devcards/v2/CXAHmPmKuTwziwuqc8jKA.png?type=default&r=89t" width="356" alt="Andrew's Dev Card"/></a>
 
-👋 Hi, my name is Andrew Weisbeck - you may know me as @GeauxWeisbeck4. I am a freelance full-stack developer and owner of [Tar Heel Dev Studio](https://tarheeldevstudio.netlify.app), my freelance brand that I have recently been able to have enough time to focus my energy on. I also create content and am starting to get back into that process as well. I've dealt with some difficult circumstances in my life recently, but I am back on track and have a lot of time to work on projects and find work!
+👋 Hi, my name is Andrew Weisbeck - you may know me as [GeauxWeisbeck4](https://geauxweisbeck4.dev). I am a freelance full-stack developer and owner of [Tar Heel Dev Studio](https://tarheeldevstudio.netlify.app), my freelance brand that I have recently been able to have enough time to focus my energy on. I also create content and am starting to get back into that process as well. I've dealt with some difficult circumstances in my life recently, but I am back on track and have a lot of time to work on projects and find work!
 
 While I do have a freelance brand and other endeavors, I am currently seeking full-time employment. I want the opportunity to work on a team and have steady income. While freelancing is great, it can be highly stressful if it is your main source of income. 
 
