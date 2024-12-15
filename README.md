@@ -1,10 +1,15 @@
 # [Andrew Weisbeck](https://andrewweisbeck.com) | Full-Stack Developer, Entrepreneur, and Content Creator
 
 
+<div>
+  <a href="https://app.daily.dev/geauxweisbeck4"><img src="https://api.daily.dev/devcards/v2/CXAHmPmKuTwziwuqc8jKA.png?type=default&r=89t" width="356" alt="Andrew's Dev Card"/></a>
+</div>
+<div>
+  <a style="padding-left:10px;" href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6444e5d2e27257737495209c?variant=dark&roadmaps=devops%2Ccomputer-science%2Cnodejs%2Cjavascript" alt="roadmap.sh"/></a>
+</div>
 
-<a style="padding-left:10px;" href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6444e5d2e27257737495209c?variant=dark&roadmaps=devops%2Ccomputer-science%2Cnodejs%2Cjavascript" alt="roadmap.sh"/></a>
 <br>
-<a href="https://app.daily.dev/geauxweisbeck4"><img src="https://api.daily.dev/devcards/v2/CXAHmPmKuTwziwuqc8jKA.png?type=default&r=89t" width="356" alt="Andrew's Dev Card"/></a>
+
 
 👋 Hi, my name is Andrew Weisbeck - you may know me as [GeauxWeisbeck4](https://geauxweisbeck4.dev). I am a freelance full-stack developer and owner of [Tar Heel Dev Studio](https://tarheeldevstudio.netlify.app), my freelance brand that I have recently been able to have enough time to focus my energy on. I also create content and am starting to get back into that process as well. I've dealt with some difficult circumstances in my life recently, but I am back on track and have a lot of time to work on projects and find work!
 
