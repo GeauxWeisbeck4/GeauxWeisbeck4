@@ -1,10 +1,9 @@
 # [Andrew Weisbeck](https://andrewweisbeck.com) | Full-Stack Developer, Entrepreneur, and Content Creator
 
 
-<div>
+<div style="display: flex;">
   <a href="https://app.daily.dev/geauxweisbeck4"><img src="https://api.daily.dev/devcards/v2/CXAHmPmKuTwziwuqc8jKA.png?type=default&r=89t" width="356" alt="Andrew's Dev Card"/></a>
-</div>
-<div>
+
   <a style="padding-left:10px;" href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6444e5d2e27257737495209c?variant=dark&roadmaps=devops%2Ccomputer-science%2Cnodejs%2Cjavascript" alt="roadmap.sh"/></a>
 </div>
 
